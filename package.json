@@ -1,6 +1,6 @@
 {
   "name": "@jmj8257/cordova-plugin-crop",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Crop an image in a Cordova app",
   "cordova": {
     "id": "cordova-plugin-crop",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmj8257/cordova-plugin-crop"
+    "url": "git+https://github.com/jmj8257/cordova-plugin-crop.git"
   },
   "keywords": [
     "cordova",
