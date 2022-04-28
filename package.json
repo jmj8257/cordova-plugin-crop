@@ -1,0 +1,40 @@
+{
+  "name": "@jmj8257/cordova-plugin-crop",
+  "version": "0.0.1",
+  "description": "Crop an image in a Cordova app",
+  "cordova": {
+    "id": "cordova-plugin-crop",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmj8257/cordova-plugin-crop.git"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "image",
+    "image manipulation",
+    "crop"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "J.Minjun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmj8257/cordova-plugin-crop/issues"
+  },
+  "homepage": "https://github.com/jmj8257/cordova-plugin-crop#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
