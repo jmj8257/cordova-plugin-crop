@@ -2,7 +2,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
   id="cordova-plugin-crop"
-  version="1.0.4">
+  version="1.0.5">
 
   <name>CropPlugin</name>
 
@@ -13,8 +13,8 @@
   <license>MIT</license>
 
   <engines>
-    <engine name="cordova" version=">=3.0.0"/>
-    <engine name="cordova-android" version=">3.9.9" />
+    <engine name="cordova-android" version=">=4.0.0" />
+    <engine name="cordova-ios" version=">=3.5.0" />
   </engines>
 
   <js-module src="www/crop.js" name="CropPlugin">
